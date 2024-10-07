@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 name = asha
 port = 8081
+=======
+name= latha
+port = 8082
+>>>>>>> test
